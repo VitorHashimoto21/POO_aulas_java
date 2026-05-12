@@ -1,5 +1,3 @@
-package AtvdComposer;
-
 import java.util.ArrayList;
 import java.util.List;
 
